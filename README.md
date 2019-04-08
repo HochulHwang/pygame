@@ -1,2 +1,3 @@
-# pygame
-For studying pygame
+# pygame  
+* For studying pygame  
+* reference: http://inventwithpython.com  
