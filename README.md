@@ -1,0 +1,2 @@
+# pygame
+For studying pygame
