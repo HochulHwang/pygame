@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BLACK	02_pygame_basics/drawing_primitive.py	/^BLACK = (  0,  0,  0)$/;"	v
+BLUE	02_pygame_basics/drawing_primitive.py	/^BLUE  = (  0,  0,255)$/;"	v
+DISPLAYSURF	02_pygame_basics/create_window.py	/^DISPLAYSURF = pygame.display.set_mode((700,700)) # width and height of window (400px*300px) - input is () not int$/;"	v
+DISPLAYSURF	02_pygame_basics/drawing_primitive.py	/^DISPLAYSURF = pygame.display.set_mode((400,300),0,32)$/;"	v
+GREEN	02_pygame_basics/drawing_primitive.py	/^GREEN = (  0,255,  0)$/;"	v
+RED	02_pygame_basics/drawing_primitive.py	/^RED   = (255,  0,  0)$/;"	v
+WHITE	02_pygame_basics/drawing_primitive.py	/^WHITE = (255,255,255)$/;"	v
+pixObj	02_pygame_basics/drawing_primitive.py	/^pixObj = pygame.PixelArray(DISPLAYSURF)$/;"	v
+pygame	02_pygame_basics/create_window.py	/^import pygame, sys$/;"	i
+pygame	02_pygame_basics/drawing_primitive.py	/^import pygame, sys$/;"	i
+sys	02_pygame_basics/create_window.py	/^import pygame, sys$/;"	i
+sys	02_pygame_basics/drawing_primitive.py	/^import pygame, sys$/;"	i
